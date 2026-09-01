@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Sonika 👋
 
-<!--
-**Sonikavijay/Sonikavijay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  About Me
+ B.Tech Artificial Intelligence & Data Science student at Karunya Institute of Technology and Sciences  
+ Currently learning [Python, Data Structures]  
+ Interested in [AI, Data Science, NLP, Computer Vision] 
+ Reach me at: [sonikavijikumar09@gmail.com]  
+ LinkedIn: [www.linkedin.com/in/sonika-vijaykumar-1b2786425]
 
-Here are some ideas to get you started:
+##  Skills
+- Languages:Python, C++, SQL
+- Tools & Frameworks: PyTorch, Pandas, NumPy, Git
+- Areas: Data Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ## GitHub Stats
+- ![Sonika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonikavijay&show_icons=true&theme=radical)
+
+## Connect with me
+[LinkedIn](www.linkedin.com/in/sonika-vijaykumar-1b2786425) | [Email](sonikavijikumar09@gmail.com)
+
+

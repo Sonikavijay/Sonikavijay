@@ -13,7 +13,7 @@
 - Areas: Data Analysis
 
 - ## GitHub Stats
-- ![Sonika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonikavijay&show_icons=true&theme=radical)
+- ![Sonika's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sonikavijay&show_icons=true&theme=dark)
 
 ## Connect with me
 [LinkedIn](www.linkedin.com/in/sonika-vijaykumar-1b2786425) | [Email](sonikavijikumar09@gmail.com)
